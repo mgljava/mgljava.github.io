@@ -4,7 +4,7 @@ title:      SpringBoot集成Flyway
 subtitle:   SpringBoot integration Flyway
 date:       2019-04-24
 author:     Monk
-header-img: img/post-bg-iWatch.jpg
+header-img: img/spring-boot-flyway.jpg
 catalog: true
 tags:
     - SpringBoot
