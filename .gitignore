@@ -1,4 +1,4 @@
-
+.idea/*.xml
 # Created by https://www.gitignore.io/api/macos
 
 ### macOS ###
@@ -33,4 +33,3 @@ Temporary Items
 
 # debug file
 _site
-.idea
