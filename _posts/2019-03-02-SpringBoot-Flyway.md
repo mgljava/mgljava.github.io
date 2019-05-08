@@ -2,7 +2,7 @@
 layout:     post
 title:      SpringBoot集成Flyway
 subtitle:   SpringBoot integration Flyway
-date:       2019-03-01
+date:       2019-03-02
 author:     Monk
 header-img: img/spring-boot-flyway.jpg
 catalog: true
