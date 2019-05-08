@@ -1,8 +1,13 @@
 ---
-layout: post
-title:  "Welcome To Code World"
-date:   2019-05-07
-categories: bookList
+layout:     post
+title:      欢迎来到编程的世界
+subtitle:   Welcome To Code World
+date:       2018-10-18
+author:     Monk
+header-img: img/sweepmonk-book-list.jpeg
+catalog: true
+tags:
+    - BookList
 ---
 
 #### 好目标就像费力的运动，会拓展你的潜能

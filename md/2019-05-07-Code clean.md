@@ -1,11 +1,3 @@
----
-layout:     post
-title:      代码整洁之道
-date:       2019-05-07
-categories: code clean
-author:     Monk
----
-
 code clean
 爱上了代码的艺术，却偏偏痴迷于计算机的运算魅力
 

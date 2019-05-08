@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41fde0c5-0e72-45a1-8c00-7c1467d9d7cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/md/2019-03-02-SpringBoot-Flyway.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/md/2019-04-24-Redis.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/md/2019-04-25-Docker.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/md/2019-04-25-Java8.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/md/2019-04-26-MySQL.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/md/2019-05-07-Code clean.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/md/2019-05-07-Gradle.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/md/2019-05-07-JVM.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/md/2019-05-07-Jenkins.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/md/2019-05-07-Nginx.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/md/2019-05-07-Refactor.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/md/2019-05-07-Spring.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/md/2019-05-07-SweepMonk.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/md/Kubernetes.md" afterDir="false" />
+    <list default="true" id="41fde0c5-0e72-45a1-8c00-7c1467d9d7cb" name="Default Changelist" comment="[TECH][glming] 增加文件大纲">
+      <change beforePath="$PROJECT_DIR$/md/2019-03-02-SpringBoot-Flyway.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/md/2019-04-24-Redis.md" beforeDir="false" afterPath="$PROJECT_DIR$/md/2019-04-24-Redis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/md/2019-04-25-Docker.md" beforeDir="false" afterPath="$PROJECT_DIR$/md/2019-04-25-Docker.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/md/2019-04-25-Java8.md" beforeDir="false" afterPath="$PROJECT_DIR$/md/2019-04-25-Java8.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/md/2019-04-26-MySQL.md" beforeDir="false" afterPath="$PROJECT_DIR$/md/2019-04-26-MySQL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/md/2019-05-07-Code clean.md" beforeDir="false" afterPath="$PROJECT_DIR$/md/2019-05-07-Code clean.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/md/2019-05-07-Gradle.md" beforeDir="false" afterPath="$PROJECT_DIR$/md/2019-05-07-Gradle.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/md/2019-05-07-JVM.md" beforeDir="false" afterPath="$PROJECT_DIR$/md/2019-05-07-JVM.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/md/2019-05-07-Jenkins.md" beforeDir="false" afterPath="$PROJECT_DIR$/md/2019-05-07-Jenkins.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/md/2019-05-07-Nginx.md" beforeDir="false" afterPath="$PROJECT_DIR$/md/2019-05-07-Nginx.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/md/2019-05-07-Refactor.md" beforeDir="false" afterPath="$PROJECT_DIR$/md/2019-05-07-Refactor.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/md/2019-05-07-Spring.md" beforeDir="false" afterPath="$PROJECT_DIR$/md/2019-05-07-Spring.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/md/2019-05-07-SweepMonk.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-07-SweepMonk.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +31,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-03-02-SpringBoot-Flyway.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
-                <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+              <first_editor>
+                <caret selection-end-line="11" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -41,23 +40,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/md/Kubernetes.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-05-07-SweepMonk.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="12" selection-start-column="12" selection-end-column="12" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-05-08-Java8-HashMap-Realization.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="1440">
-                <caret line="80" column="36" selection-start-line="80" selection-start-column="36" selection-end-line="80" selection-end-column="36" />
+              <first_editor relative-caret-position="108">
+                <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -88,6 +75,19 @@
         <option value="$PROJECT_DIR$/_posts/2019-05-08-Java8-HashMap-Realization.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/_posts/2019-03-02-SpringBoot-Flyway.md" />
+        <option value="$PROJECT_DIR$/md/2019-03-02-SpringBoot-Flyway.md" />
+        <option value="$PROJECT_DIR$/md/2019-04-24-Redis.md" />
+        <option value="$PROJECT_DIR$/md/2019-04-25-Docker.md" />
+        <option value="$PROJECT_DIR$/md/2019-04-25-Java8.md" />
+        <option value="$PROJECT_DIR$/md/2019-04-26-MySQL.md" />
+        <option value="$PROJECT_DIR$/md/2019-05-07-Code clean.md" />
+        <option value="$PROJECT_DIR$/md/2019-05-07-Gradle.md" />
+        <option value="$PROJECT_DIR$/md/2019-05-07-Jenkins.md" />
+        <option value="$PROJECT_DIR$/md/2019-05-07-JVM.md" />
+        <option value="$PROJECT_DIR$/md/2019-05-07-Nginx.md" />
+        <option value="$PROJECT_DIR$/md/2019-05-07-Refactor.md" />
+        <option value="$PROJECT_DIR$/md/2019-05-07-Spring.md" />
+        <option value="$PROJECT_DIR$/md/2019-05-07-SweepMonk.md" />
       </list>
     </option>
   </component>
@@ -115,6 +115,11 @@
             <path>
               <item name="mgljava.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="mgljava.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mgljava.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mgljava.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="md" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -137,13 +142,15 @@
     <property name="settings.editor.selected.configurable" value="com.alibabacloud.intellij.config.AccountConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\github\mgljava.github.io\_posts" />
+      <recent name="D:\project\github\mgljava.github.io\bak_img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\github\mgljava.github.io" />
       <recent name="D:\project\github\mgljava.github.io\_posts" />
       <recent name="D:\project\github\mgljava.github.io\img" />
       <recent name="C:\Users\jumbo\Desktop\blog\qiubaiying.github.io\img" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\project\github\mgljava.github.io\bak_img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -195,7 +202,7 @@
       <workItem from="1557297057709" duration="1231000" />
       <workItem from="1557298875436" duration="881000" />
       <workItem from="1557299993728" duration="319000" />
-      <workItem from="1557300444699" duration="805000" />
+      <workItem from="1557300444699" duration="1049000" />
     </task>
     <task id="LOCAL-00001" summary="[TECH][glming] add java8 hashmap">
       <created>1557301087547</created>
@@ -211,17 +218,24 @@
       <option name="project" value="LOCAL" />
       <updated>1557301156535</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[TECH][glming] 增加文件大纲">
+      <created>1557301287996</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557301287996</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3236000" />
+    <option name="totallyTimeSpent" value="3480000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23667377" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23667377" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -236,7 +250,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.24295011" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.24295011" />
       <window_info anchor="bottom" id="Docker" order="9" />
       <window_info anchor="bottom" id="CheckStyle" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -263,22 +277,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[TECH][glming] add java8 hashmap" />
     <MESSAGE value="[TECH][glming] update time" />
-    <option name="LAST_COMMIT_MESSAGE" value="[TECH][glming] update time" />
+    <MESSAGE value="[TECH][glming] 增加文件大纲" />
+    <option name="LAST_COMMIT_MESSAGE" value="[TECH][glming] 增加文件大纲" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/home-bg-o.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/post-bg-2015.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/post-bg-debug.png" />
-    <entry file="file://$PROJECT_DIR$/img/post-bg-digital-native.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/post-bg-hacker.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/post-bg-ios10.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/post-bg-ios9-web.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/post-bg-e2e-ux.jpg" />
-    <entry file="file://$PROJECT_DIR$/_site/about/index.html" />
-    <entry file="file://$PROJECT_DIR$/img/post-bg-re-vs-ng2.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/post-bg-os-metro.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/post-bg-universe.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/post-bg-YesOrNo.jpg" />
     <entry file="file://$PROJECT_DIR$/img/readme-side.png" />
     <entry file="file://$PROJECT_DIR$/img/readme-home.png" />
     <entry file="file://$PROJECT_DIR$/_site/tags/index.html" />
@@ -406,12 +408,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-03-02-SpringBoot-Flyway.md">
+    <entry file="file://$PROJECT_DIR$/md/2019-03-02-SpringBoot-Flyway.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/md/2019-04-24-Redis.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/md/2019-04-25-Docker.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/md/2019-04-25-Java8.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <folding>
+              <element signature="e#85#86#0" expanded="true" />
+              <element signature="e#126#127#0" expanded="true" />
+            </folding>
           </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/md/2019-04-26-MySQL.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/md/2019-05-07-Code clean.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/md/2019-05-07-Gradle.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/md/2019-05-07-Jenkins.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/md/2019-05-07-JVM.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/md/2019-05-07-Nginx.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/md/2019-05-07-Refactor.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/md/2019-05-07-Spring.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -420,7 +513,27 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
-            <caret column="12" selection-start-column="12" selection-end-column="12" />
+            <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-02-SpringBoot-Flyway.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="11" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-07-SweepMonk.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="108">
+            <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
