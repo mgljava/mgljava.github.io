@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41fde0c5-0e72-45a1-8c00-7c1467d9d7cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-05-08-Java-Virtual-Machine-Specification.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05198ab7157709c5ee8c892b2d1dee57083f2f64" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="41fde0c5-0e72-45a1-8c00-7c1467d9d7cb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,8 +69,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-05-08-Java-Virtual-Machine-Specification.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="342">
-                <caret line="19" column="64" lean-forward="true" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
+              <first_editor relative-caret-position="378">
+                <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -260,7 +255,7 @@
       <workItem from="1557298875436" duration="881000" />
       <workItem from="1557299993728" duration="319000" />
       <workItem from="1557300444699" duration="1512000" />
-      <workItem from="1557307264095" duration="1672000" />
+      <workItem from="1557307264095" duration="2470000" />
     </task>
     <task id="LOCAL-00001" summary="[TECH][glming] add java8 hashmap">
       <created>1557301087547</created>
@@ -297,14 +292,22 @@
       <option name="project" value="LOCAL" />
       <updated>1557301794116</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="[TECH][glming] add java 虚拟机规范">
+      <created>1557310651680</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1557310651680</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5615000" />
+    <option name="totallyTimeSpent" value="6413000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23667377" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -349,7 +352,8 @@
     <MESSAGE value="[TECH][glming] add java8 hashmap" />
     <MESSAGE value="[TECH][glming] update time" />
     <MESSAGE value="[TECH][glming] 增加文件大纲" />
-    <option name="LAST_COMMIT_MESSAGE" value="[TECH][glming] 增加文件大纲" />
+    <MESSAGE value="[TECH][glming] add java 虚拟机规范" />
+    <option name="LAST_COMMIT_MESSAGE" value="[TECH][glming] add java 虚拟机规范" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/img/post-bg-swift2.jpg" />
@@ -611,8 +615,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-05-08-Java-Virtual-Machine-Specification.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="342">
-            <caret line="19" column="64" lean-forward="true" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
+          <first_editor relative-caret-position="378">
+            <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>
