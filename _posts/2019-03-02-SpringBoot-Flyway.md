@@ -10,7 +10,7 @@ tags:
     - SpringBoot
     - Flyway
 ---
-## SpringBoot 集成数据库迁移工具 Flyway（基于Gradle构建）
+##### SpringBoot 集成数据库迁移工具 Flyway（基于Gradle构建）
 
 源代码：[Github](https://github.com/mgljava/java-tools)
 
