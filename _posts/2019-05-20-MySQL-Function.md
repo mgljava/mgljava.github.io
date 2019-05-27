@@ -30,6 +30,13 @@ tags:
    ```
 6. 随机数函数 RAND(), RAND(x);
 7. 四舍五入函数 ROUND(x), ROUND(x,y), TRUNCATE(x,y);
+
+### 日期函数
+1. 获取当前日期的函数：CURDATE(), CURRENT_DATE()
+2. 获取当前时间的函数：CURTIME(), CURRENT_TIME()
+3. 获取当前日期和时间的函数：CURRENT_TIMESTAMP(), LOCALTIME(), NOW(), SYSDATE()
+4. UNIX时间戳函数：UNIX_TIMESTAMP(date), 如果date为空，那么返回一个Unix的时间戳，否则: UNIX_TIMESTAMP(NOW())
+
 ### 字符串处理函数
 1. 字符串截取：**LEFT(str, length)** `SELECT LEFT('sqlstudy.com', 3); // sql`;
 2. 字符串截取：**RIGHT(str, length)** `SELECT RIGHT('sqlstudy.com', 3); // com`;

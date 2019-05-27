@@ -55,3 +55,5 @@ _
 /_posts/2019-05-13-MySQL-Key-Index-Difference.md,7\7\77584b9bafce2618d4b707af474be0bd626aa806
 J
 _posts/2019-04-26-MySQL.md,4\c\4c59fcf1e09fd8cecbd54d2195abf4e68aec54a7
+S
+#_posts/2019-05-20-MySQL-Function.md,4\8\482e871680b29eb5518c718b565ac49b54e0f1c6
