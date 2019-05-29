@@ -102,3 +102,9 @@ tags:
 #### 其他语言
   1. Python
      - Python 第二版
+     
+     
+计划：
+1. 2019-06-02 前读完 **MySQL 5.7 从入门到精通**
+2. Spring Cloud
+3. RocketMQ
