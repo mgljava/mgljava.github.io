@@ -106,5 +106,10 @@ tags:
      
 计划：
 1. 2019-06-02 前读完 **MySQL 5.7 从入门到精通**
-2. Spring Cloud
-3. RocketMQ
+2. RocketMQ
+  - RocketMQ实战与原理解析
+  - RocketMQ技术内幕
+3. Spring Cloud
+  - 学习网站：http://www.ityouknow.com
+4. Spring
+5. Redis
