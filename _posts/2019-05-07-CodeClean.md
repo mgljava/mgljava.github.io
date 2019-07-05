@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      代码整洁之道-读书笔记
+subtitle:   Code Clean
+date:       2019-07-05
+author:     Monk
+header-img: img/post-bg-rwd.jpg
+catalog: true
+tags:
+    - 读书笔记
+---
+
 code clean
 爱上了代码的艺术，却偏偏痴迷于计算机的运算魅力
 
