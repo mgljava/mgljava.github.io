@@ -26,8 +26,6 @@ F
 md/2019-04-25-Java8.md,5\4\54803870821029112491be86972c4cff0617bfe3
 F
 md/2019-04-26-MySQL.md,1\4\148b9ec5df9fca211629a425939753dd5236b951
-K
-md/2019-05-07-Code clean.md,b\7\b7231c91843bce42095bccc5b33789b39faca865
 G
 md/2019-05-07-Gradle.md,9\c\9c616e272ca39cbfa32c4b7018ccd2bbc069aa47
 H
@@ -36,8 +34,6 @@ D
 md/2019-05-07-JVM.md,8\6\86e7d6c46bd868fee3519874bd3a6c4d35ca7e0d
 F
 md/2019-05-07-Nginx.md,e\d\ed765f98b64d6df2fbdd2e7aaaec1921670d842e
-I
-md/2019-05-07-Refactor.md,7\0\70e9716797b736fa917511d8ae094ee466e7258e
 G
 md/2019-05-07-Spring.md,f\7\f71f6a03a68eb6c8976557ae551646e34e914bc2
 N
@@ -59,3 +55,7 @@ S
 #_posts/2019-05-20-MySQL-Function.md,4\8\482e871680b29eb5518c718b565ac49b54e0f1c6
 K
 _posts/2019-05-27-Regexp.md,e\b\eb402f93bb2db6821721cc08b1bbd5df5856c987
+N
+_posts/2019-05-07-CodeClean.md,d\7\d777c4d390bba52e07f4205aef02ab5c4b64f35a
+M
+_posts/2019-05-07-Refactor.md,6\5\651675af54bc99ed0b875bc61dc2d2fda5dda003
