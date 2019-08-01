@@ -59,3 +59,5 @@ N
 _posts/2019-05-07-CodeClean.md,d\7\d777c4d390bba52e07f4205aef02ab5c4b64f35a
 M
 _posts/2019-05-07-Refactor.md,6\5\651675af54bc99ed0b875bc61dc2d2fda5dda003
+W
+'_posts/2019-07-17-SpringCloud-Docker.md,0\9\096575ace6da80e8bd543eece0faa6f2fe6b1ba8
