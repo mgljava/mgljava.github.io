@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41fde0c5-0e72-45a1-8c00-7c1467d9d7cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-07-17-SpringCloud-Docker.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-07-31-Netty.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-08-01-Blog.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-07-31-Netty.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-07-31-Netty.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,8 +58,20 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-07-31-Netty.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="216">
-                <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+              <first_editor relative-caret-position="542">
+                <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-08-01-Blog.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="306">
+                <caret line="17" selection-start-line="17" selection-end-line="17" />
               </first_editor>
               <second_editor />
             </state>
@@ -129,6 +141,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-05-07-Refactor.md" />
         <option value="$PROJECT_DIR$/_posts/2018-10-18-SweepMonk.md" />
         <option value="$PROJECT_DIR$/_posts/2019-07-17-SpringCloud-Docker.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-08-01-Blog.md" />
         <option value="$PROJECT_DIR$/_posts/2019-07-31-Netty.md" />
       </list>
     </option>
@@ -174,8 +187,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,7 +200,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="com.alibabacloud.intellij.config.AccountConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -263,7 +276,9 @@
       <workItem from="1562289644028" duration="3692000" />
       <workItem from="1563247327677" duration="473000" />
       <workItem from="1563354314165" duration="2969000" />
-      <workItem from="1564577482580" duration="743000" />
+      <workItem from="1564577482580" duration="1498000" />
+      <workItem from="1564639168705" duration="6002000" />
+      <workItem from="1564726499315" duration="3656000" />
     </task>
     <task id="LOCAL-00001" summary="[TECH][glming] add java8 hashmap">
       <created>1557301087547</created>
@@ -391,17 +406,23 @@
       <option name="project" value="LOCAL" />
       <updated>1563247406900</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="[TECH][glming] update">
+      <created>1564622972252</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1564622972252</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35006000" />
+    <option name="totallyTimeSpent" value="45419000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21375267" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24253732" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -422,7 +443,7 @@
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.27982646" />
       <window_info anchor="bottom" id="SonarLint" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.49946696" weight="0.23535791" />
+      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.49946696" visible="true" weight="0.3177874" />
       <window_info anchor="bottom" id="Tail" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -534,7 +555,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="[TECH][glming] update" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/post-bg-swift.jpg" />
     <entry file="file://$PROJECT_DIR$/img/post-bg-unix-linux.jpg" />
     <entry file="file://$PROJECT_DIR$/img/post-bg-desk.jpg" />
     <entry file="file://$PROJECT_DIR$/404.html">
@@ -831,16 +851,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-27-Regexp.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="216">
-            <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-07-17-SpringCloud-Docker.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -851,11 +861,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-07-31-Netty.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-27-Regexp.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="216">
-            <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-08-01-Blog.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="306">
+            <caret line="17" selection-start-line="17" selection-end-line="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-07-31-Netty.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="542">
+            <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
           </first_editor>
           <second_editor />
         </state>
