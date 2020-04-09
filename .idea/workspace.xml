@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="41fde0c5-0e72-45a1-8c00-7c1467d9d7cb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/md/2019-04-26-MySQL.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/md/2019-05-07-Gradle.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-04-03-Gradle.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/md/2019-05-07-JVM.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/md/2019-05-07-Jenkins.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/md/2019-05-07-Nginx.md" beforeDir="false" afterPath="$PROJECT_DIR$/md/2019-05-07-Nginx.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +45,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
@@ -131,7 +127,7 @@
       <workItem from="1582181615927" duration="616000" />
       <workItem from="1586444718323" duration="417000" />
       <workItem from="1586445142047" duration="23000" />
-      <workItem from="1586445181693" duration="582000" />
+      <workItem from="1586445181693" duration="903000" />
     </task>
     <task id="LOCAL-00001" summary="[TECH][glming] add java8 hashmap">
       <created>1557301087547</created>
@@ -287,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586445580664</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="[TECH][glming] update">
+      <created>1586445865695</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1586445865695</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,18 +339,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="[TECH][glming] update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="271" y="39" key="CommitChangelistDialog2" timestamp="1586445580559">
+    <state x="403" y="248" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586446204834">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state x="271" y="39" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586445580559" />
+    <state x="403" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.831@0.23.1440.831" timestamp="1586446204834" />
+    <state x="271" y="39" key="CommitChangelistDialog2" timestamp="1586446255208">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="271" y="39" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586446255208" />
     <state x="221" y="77" key="SettingsEditor" timestamp="1586445607324">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="221" y="77" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1586445607324" />
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1586445585838">
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1586445867657">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1586445585838" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1586445867657" />
   </component>
   <component name="masterDetails">
     <states>
