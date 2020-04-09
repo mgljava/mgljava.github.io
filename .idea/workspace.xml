@@ -3,10 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="41fde0c5-0e72-45a1-8c00-7c1467d9d7cb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-04-08-Redis.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-04-08-Redis.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-04-09-Deep-Redis.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-04-09-Deep-Redis.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/md/2019-04-25-Docker.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-04-01-Docker.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/md/2019-04-25-Java8.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-04-02-Java8.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/md/2019-04-26-MySQL.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/md/2019-05-07-Gradle.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-04-03-Gradle.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/md/2019-05-07-JVM.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/md/2019-05-07-Jenkins.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/md/2019-05-07-Nginx.md" beforeDir="false" afterPath="$PROJECT_DIR$/md/2019-05-07-Nginx.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,20 +59,20 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="D:\project\github\mgljava.github.io\_posts" />
+      <recent name="D:\project\github\mgljava.github.io\bak_img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="D:\project\github\mgljava.github.io\_posts" />
       <recent name="D:\project\github\mgljava.github.io" />
       <recent name="D:\project\github\mgljava.github.io\img" />
       <recent name="C:\Users\jumbo\Desktop\blog\qiubaiying.github.io\img" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
-      <recent name="D:\project\github\mgljava.github.io\_posts" />
-      <recent name="D:\project\github\mgljava.github.io\bak_img" />
     </key>
   </component>
   <component name="RunManager">
@@ -130,7 +131,7 @@
       <workItem from="1582181615927" duration="616000" />
       <workItem from="1586444718323" duration="417000" />
       <workItem from="1586445142047" duration="23000" />
-      <workItem from="1586445181693" duration="259000" />
+      <workItem from="1586445181693" duration="582000" />
     </task>
     <task id="LOCAL-00001" summary="[TECH][glming] add java8 hashmap">
       <created>1557301087547</created>
@@ -272,7 +273,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586445237486</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="[TECH][glming] update">
+      <created>1586445452681</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1586445452681</updated>
+    </task>
+    <task id="LOCAL-00022" summary="[TECH][glming] update">
+      <created>1586445580664</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1586445580664</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,14 +336,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="[TECH][glming] update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="271" y="39" key="CommitChangelistDialog2" timestamp="1586445452573">
+    <state x="271" y="39" key="CommitChangelistDialog2" timestamp="1586445580559">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state x="271" y="39" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586445452573" />
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1586445454365">
+    <state x="271" y="39" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586445580559" />
+    <state x="221" y="77" key="SettingsEditor" timestamp="1586445607324">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1586445454365" />
+    <state x="221" y="77" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1586445607324" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1586445585838">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1586445585838" />
   </component>
   <component name="masterDetails">
     <states>
