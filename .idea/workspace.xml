@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="41fde0c5-0e72-45a1-8c00-7c1467d9d7cb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-08-Java8-HashMap-Realization.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-08-Java8-HashMap-Realization.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2099-10-18-SweepMonk.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2099-10-18-SweepMonk.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,11 +16,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Thinking will not overcome fear but action will</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="REBASE" />
@@ -127,7 +124,7 @@
       <workItem from="1582181615927" duration="616000" />
       <workItem from="1586444718323" duration="417000" />
       <workItem from="1586445142047" duration="23000" />
-      <workItem from="1586445181693" duration="1852000" />
+      <workItem from="1586445181693" duration="2105000" />
     </task>
     <task id="LOCAL-00001" summary="[TECH][glming] add java8 hashmap">
       <created>1557301087547</created>
@@ -304,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586446671403</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="[TECH][glming] 更新">
+      <created>1586447373763</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1586447373763</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,25 +356,30 @@
     <MESSAGE value="[TECH][glming] add code clean" />
     <MESSAGE value="[TECH][glming] update" />
     <MESSAGE value="[TECH][glming] 更新背景图片" />
-    <option name="LAST_COMMIT_MESSAGE" value="[TECH][glming] 更新背景图片" />
+    <MESSAGE value="[TECH][glming] 更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="[TECH][glming] 更新" />
   </component>
   <component name="WindowStateProjectService">
     <state x="403" y="248" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586446204834">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="403" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.831@0.23.1440.831" timestamp="1586446204834" />
-    <state x="271" y="39" key="CommitChangelistDialog2" timestamp="1586446671270">
+    <state x="271" y="39" key="CommitChangelistDialog2" timestamp="1586447595708">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state x="271" y="39" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586446671270" />
+    <state x="271" y="39" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586447595708" />
     <state x="221" y="77" key="SettingsEditor" timestamp="1586445607324">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="221" y="77" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1586445607324" />
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1586446673087">
+    <state width="538" height="445" key="SwitcherDM" timestamp="1586447523559">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1586446673087" />
+    <state width="538" height="445" key="SwitcherDM/0.23.1440.831@0.23.1440.831" timestamp="1586447523559" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1586447375381">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1586447375381" />
     <state x="378" y="195" width="683" height="486" key="find.popup" timestamp="1586447348744">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
