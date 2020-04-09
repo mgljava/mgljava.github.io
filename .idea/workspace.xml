@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41fde0c5-0e72-45a1-8c00-7c1467d9d7cb" name="Default Changelist" comment="">
+    <list default="true" id="41fde0c5-0e72-45a1-8c00-7c1467d9d7cb" name="Default Changelist" comment="[TECH][glming] 更新">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/keynote.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/keynote.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,7 +124,7 @@
       <workItem from="1582181615927" duration="616000" />
       <workItem from="1586444718323" duration="417000" />
       <workItem from="1586445142047" duration="23000" />
-      <workItem from="1586445181693" duration="2352000" />
+      <workItem from="1586445181693" duration="2594000" />
     </task>
     <task id="LOCAL-00001" summary="[TECH][glming] add java8 hashmap">
       <created>1557301087547</created>
@@ -315,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586447611477</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="[TECH][glming] 更新">
+      <created>1586447819689</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1586447819689</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -371,10 +378,10 @@
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="403" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.831@0.23.1440.831" timestamp="1586446204834" />
-    <state x="271" y="39" key="CommitChangelistDialog2" timestamp="1586447611355">
+    <state x="271" y="39" key="CommitChangelistDialog2" timestamp="1586447892342">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state x="271" y="39" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586447611355" />
+    <state x="271" y="39" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586447892342" />
     <state x="100" y="123" width="1240" height="631" key="DiffContextDialog" timestamp="1586447808951">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
@@ -383,22 +390,22 @@
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="221" y="77" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1586445607324" />
-    <state width="538" height="445" key="SwitcherDM" timestamp="1586447784849">
+    <state width="538" height="445" key="SwitcherDM" timestamp="1586447975032">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state width="538" height="445" key="SwitcherDM/0.23.1440.831@0.23.1440.831" timestamp="1586447784849" />
+    <state width="538" height="445" key="SwitcherDM/0.23.1440.831@0.23.1440.831" timestamp="1586447975032" />
     <state x="449" y="150" key="VCS.ChangeListViewerDialog" timestamp="1586447803960">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="449" y="150" key="VCS.ChangeListViewerDialog/0.23.1440.831@0.23.1440.831" timestamp="1586447803960" />
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1586447613201">
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1586447822915">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1586447613201" />
-    <state x="378" y="195" width="683" height="486" key="find.popup" timestamp="1586447348744">
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1586447822915" />
+    <state x="378" y="195" width="683" height="486" key="find.popup" timestamp="1586447921313">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state x="378" y="195" width="683" height="486" key="find.popup/0.23.1440.831@0.23.1440.831" timestamp="1586447348744" />
+    <state x="378" y="195" width="683" height="486" key="find.popup/0.23.1440.831@0.23.1440.831" timestamp="1586447921313" />
     <state x="385" y="178" width="670" height="676" key="search.everywhere.popup" timestamp="1586447276095">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
