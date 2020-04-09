@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41fde0c5-0e72-45a1-8c00-7c1467d9d7cb" name="Default Changelist" comment="[TECH][glming] update">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-04-09-Deep-Redis.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cf273c581f378f795ad952cf64a5d877c744cb84" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="41fde0c5-0e72-45a1-8c00-7c1467d9d7cb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/md/2019-04-24-Redis.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-04-08-Redis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-04-08-Redis.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-04-08-Redis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-04-09-Deep-Redis.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-04-09-Deep-Redis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/md/2019-04-25-Docker.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-04-01-Docker.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/md/2019-04-25-Java8.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-04-02-Java8.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,6 +130,7 @@
       <workItem from="1582181615927" duration="616000" />
       <workItem from="1586444718323" duration="417000" />
       <workItem from="1586445142047" duration="23000" />
+      <workItem from="1586445181693" duration="259000" />
     </task>
     <task id="LOCAL-00001" summary="[TECH][glming] add java8 hashmap">
       <created>1557301087547</created>
@@ -265,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564622972252</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="[TECH][glming] update">
+      <created>1586445237486</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1586445237486</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,10 +321,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="[TECH][glming] update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="271" y="39" key="CommitChangelistDialog2" timestamp="1586445227906">
+    <state x="271" y="39" key="CommitChangelistDialog2" timestamp="1586445237180">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state x="271" y="39" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586445227906" />
+    <state x="271" y="39" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586445237180" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1586445239761">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1586445239761" />
   </component>
   <component name="masterDetails">
     <states>
