@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="41fde0c5-0e72-45a1-8c00-7c1467d9d7cb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-10-18-SweepMonk.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2099-10-18-SweepMonk.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-08-Java-Virtual-Machine-Specification.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +129,7 @@
       <workItem from="1582181615927" duration="616000" />
       <workItem from="1586444718323" duration="417000" />
       <workItem from="1586445142047" duration="23000" />
-      <workItem from="1586445181693" duration="903000" />
+      <workItem from="1586445181693" duration="1398000" />
     </task>
     <task id="LOCAL-00001" summary="[TECH][glming] add java8 hashmap">
       <created>1557301087547</created>
@@ -290,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586445865695</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="[TECH][glming] 更新背景图片">
+      <created>1586446274864</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1586446274864</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,6 +333,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="[TECH][glming] add java8 hashmap" />
     <MESSAGE value="[TECH][glming] update time" />
     <MESSAGE value="[TECH][glming] 增加文件大纲" />
@@ -336,25 +346,26 @@
     <MESSAGE value="[TECH][glming] add refactor" />
     <MESSAGE value="[TECH][glming] add code clean" />
     <MESSAGE value="[TECH][glming] update" />
-    <option name="LAST_COMMIT_MESSAGE" value="[TECH][glming] update" />
+    <MESSAGE value="[TECH][glming] 更新背景图片" />
+    <option name="LAST_COMMIT_MESSAGE" value="[TECH][glming] 更新背景图片" />
   </component>
   <component name="WindowStateProjectService">
     <state x="403" y="248" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586446204834">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="403" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.831@0.23.1440.831" timestamp="1586446204834" />
-    <state x="271" y="39" key="CommitChangelistDialog2" timestamp="1586446255208">
+    <state x="271" y="39" key="CommitChangelistDialog2" timestamp="1586446274760">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state x="271" y="39" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586446255208" />
+    <state x="271" y="39" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586446274760" />
     <state x="221" y="77" key="SettingsEditor" timestamp="1586445607324">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="221" y="77" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1586445607324" />
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1586445867657">
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1586446277764">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1586445867657" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1586446277764" />
   </component>
   <component name="masterDetails">
     <states>
