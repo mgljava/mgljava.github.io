@@ -7,7 +7,7 @@ author:     Monk
 header-img: img/sweepmonk-book-list.jpeg
 catalog: true
 tags:
-    - BookList
+    - 读书笔记
 ---
 
 #### 好目标就像费力的运动，会拓展你的潜能

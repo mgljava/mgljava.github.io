@@ -2,9 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41fde0c5-0e72-45a1-8c00-7c1467d9d7cb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0e39aef2277e7369abad4ef84f4b5d8760340720" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/4/148b9ec5df9fca211629a425939753dd5236b951" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3a750e3cc8e6a17de5d09ee7c3d7ee6ae3003921" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/54803870821029112491be86972c4cff0617bfe3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/86e7d6c46bd868fee3519874bd3a6c4d35ca7e0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/92af0c4fb7fca2c9574d4894b967e256b1c449e1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9c616e272ca39cbfa32c4b7018ccd2bbc069aa47" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c14d1e8d25045f0ee8183cc9001fbbb09496dfe3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed765f98b64d6df2fbdd2e7aaaec1921670d842e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f62ab234f3087a974b09f7cd69bd9213439c7314" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/7/f71f6a03a68eb6c8976557ae551646e34e914bc2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2019-04-26-MySQL.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-04-26-MySQL.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2019-05-07-CodeClean.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-07-CodeClean.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-07-Refactor.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-07-Refactor.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-13-MySQL-Key-Index-Difference.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-27-Regexp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-07-17-SpringCloud-Docker.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-04-01-Docker.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-04-01-Docker.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-04-02-Java8.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-04-02-Java8.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-04-03-Gradle.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-04-03-Gradle.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-04-05-Nginx.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-04-05-Nginx.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-04-06-Spring.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-04-06-Spring.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-04-08-Redis.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-04-08-Redis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2099-10-18-SweepMonk.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2099-10-18-SweepMonk.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +70,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -125,6 +147,7 @@
       <workItem from="1586444718323" duration="417000" />
       <workItem from="1586445142047" duration="23000" />
       <workItem from="1586445181693" duration="3971000" />
+      <workItem from="1586495048303" duration="319000" />
     </task>
     <task id="LOCAL-00001" summary="[TECH][glming] add java8 hashmap">
       <created>1557301087547</created>
@@ -405,9 +428,10 @@
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="221" y="77" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1586445607324" />
-    <state width="538" height="445" key="SwitcherDM" timestamp="1586447975032">
-      <screen x="0" y="23" width="1440" height="831" />
+    <state width="718" height="557" key="SwitcherDM" timestamp="1586495130111">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="718" height="557" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1586495130111" />
     <state width="538" height="445" key="SwitcherDM/0.23.1440.831@0.23.1440.831" timestamp="1586447975032" />
     <state x="449" y="150" key="VCS.ChangeListViewerDialog" timestamp="1586447803960">
       <screen x="0" y="23" width="1440" height="831" />
