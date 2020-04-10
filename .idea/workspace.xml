@@ -403,15 +403,19 @@
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="403" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.831@0.23.1440.831" timestamp="1586446204834" />
-    <state x="361" y="20" key="CommitChangelistDialog2" timestamp="1586495630627">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="271" y="39" key="CommitChangelistDialog2" timestamp="1586496951487">
+      <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="361" y="20" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586495630627" />
-    <state x="271" y="39" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586494019531" />
+    <state x="271" y="39" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586496951487" />
     <state x="100" y="123" width="1240" height="631" key="DiffContextDialog" timestamp="1586447808951">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="100" y="123" width="1240" height="631" key="DiffContextDialog/0.23.1440.831@0.23.1440.831" timestamp="1586447808951" />
+    <state x="442" y="156" key="RollbackChangesDialog" timestamp="1586496940105">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="442" y="156" key="RollbackChangesDialog/0.23.1440.831@0.23.1440.831" timestamp="1586496940105" />
     <state x="221" y="77" key="SettingsEditor" timestamp="1586445607324">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
