@@ -55,17 +55,18 @@
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
-      <recent name="D:\project\github\mgljava.github.io\_posts" />
-      <recent name="D:\project\github\mgljava.github.io\bak_img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mcd0048\IdeaProjects\github\mgljava.github.io\_posts" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="D:\project\github\mgljava.github.io\_posts" />
       <recent name="D:\project\github\mgljava.github.io" />
       <recent name="D:\project\github\mgljava.github.io\img" />
-      <recent name="C:\Users\jumbo\Desktop\blog\qiubaiying.github.io\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mcd0048\IdeaProjects\github\mgljava.github.io\img" />
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="D:\project\github\mgljava.github.io\_posts" />
+      <recent name="D:\project\github\mgljava.github.io\bak_img" />
     </key>
   </component>
   <component name="RunManager">
@@ -402,10 +403,10 @@
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="403" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.831@0.23.1440.831" timestamp="1586446204834" />
-    <state x="361" y="20" key="CommitChangelistDialog2" timestamp="1586495392474">
+    <state x="361" y="20" key="CommitChangelistDialog2" timestamp="1586495630627">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="361" y="20" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586495392474" />
+    <state x="361" y="20" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586495630627" />
     <state x="271" y="39" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586494019531" />
     <state x="100" y="123" width="1240" height="631" key="DiffContextDialog" timestamp="1586447808951">
       <screen x="0" y="23" width="1440" height="831" />
@@ -424,10 +425,10 @@
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="449" y="150" key="VCS.ChangeListViewerDialog/0.23.1440.831@0.23.1440.831" timestamp="1586447803960" />
-    <state x="427" y="194" key="Vcs.Push.Dialog.v2" timestamp="1586495395839">
+    <state x="427" y="194" key="Vcs.Push.Dialog.v2" timestamp="1586495633995">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="427" y="194" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586495395839" />
+    <state x="427" y="194" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586495633995" />
     <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1586494021598" />
     <state x="378" y="195" width="683" height="486" key="find.popup" timestamp="1586493751798">
       <screen x="0" y="23" width="1440" height="831" />
