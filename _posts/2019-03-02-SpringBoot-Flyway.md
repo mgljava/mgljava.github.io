@@ -21,7 +21,7 @@ tags:
 > * JPA：spring-boot-starter-data-jpa
 
 ### 1. 引入插件和依赖（build.gradle）
-```
+```groovy
 plugins {
     id 'java'
     id "org.springframework.boot" version '2.1.2.RELEASE'
@@ -44,7 +44,7 @@ dependencies {
 ```
 
 ### 2. 编写配置文件（application.yml）
-```
+```yaml
 spring:
   flyway:
     url: jdbc:mysql://127.0.0.1:3306/flyway_test?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai
@@ -60,7 +60,8 @@ spring:
       driver-class-name: com.mysql.cj.jdbc.Driver
 ```
 
-### 3. 编写sql文件（V201903111310__CREATE_TABLE_USER_INFO.sql）,文件需要放在db/migration目录下,也可自定义目录，然后通过locations: classpath:custom/directory配置来指定
+### 3. 编写sql文件
+V201903111310__CREATE_TABLE_USER_INFO.sql,文件需要放在db/migration目录下,也可自定义目录，然后通过locations: classpath:custom/directory配置来指定
 ```sql
 CREATE TABLE `user_info`  (
   `id` bigint(20) NOT NULL AUTO_INCREMENT,
@@ -74,7 +75,7 @@ SET FOREIGN_KEY_CHECKS = 1;
 ```
 
 ### 4. 建好数据库，然后运行，结果如下就代表集成成功了，所有放在配置目录下的sql将由flyway来管理和运行。
-```
+```log
 Init DruidDataSource
 {dataSource-1} inited
 Flyway Community Edition 5.2.4 by Boxfuse
@@ -85,7 +86,7 @@ Schema `flyway_test` is up to date. No migration necessary.
 ```
 
 ### 5. Flyway的其他参数配置（整合而来）,所有的配置可以查看`org.springframework.boot.autoconfigure.flyway.FlywayProperties.java` 这个类提供的。
-```
+```yaml
 spring:
   flyway:
     baseline-version: 1 # 开始执行基准迁移时对现有的schema的版本打标签，默认值为1.

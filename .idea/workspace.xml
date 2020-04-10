@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41fde0c5-0e72-45a1-8c00-7c1467d9d7cb" name="Default Changelist" comment="[TECH][glming] 更新">
+    <list default="true" id="41fde0c5-0e72-45a1-8c00-7c1467d9d7cb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +123,7 @@
       <workItem from="1582181615927" duration="616000" />
       <workItem from="1586444718323" duration="417000" />
       <workItem from="1586445142047" duration="23000" />
-      <workItem from="1586445181693" duration="2594000" />
+      <workItem from="1586445181693" duration="3472000" />
     </task>
     <task id="LOCAL-00001" summary="[TECH][glming] add java8 hashmap">
       <created>1557301087547</created>
@@ -322,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586447819689</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="[TECH][glming] 更新代码">
+      <created>1586448027302</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1586448027302</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -371,17 +377,18 @@
     <MESSAGE value="[TECH][glming] update" />
     <MESSAGE value="[TECH][glming] 更新背景图片" />
     <MESSAGE value="[TECH][glming] 更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="[TECH][glming] 更新" />
+    <MESSAGE value="[TECH][glming] 更新代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="[TECH][glming] 更新代码" />
   </component>
   <component name="WindowStateProjectService">
     <state x="403" y="248" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586446204834">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="403" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.831@0.23.1440.831" timestamp="1586446204834" />
-    <state x="271" y="39" key="CommitChangelistDialog2" timestamp="1586447892342">
+    <state x="271" y="39" key="CommitChangelistDialog2" timestamp="1586448027187">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state x="271" y="39" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586447892342" />
+    <state x="271" y="39" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586448027187" />
     <state x="100" y="123" width="1240" height="631" key="DiffContextDialog" timestamp="1586447808951">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
@@ -398,14 +405,14 @@
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="449" y="150" key="VCS.ChangeListViewerDialog/0.23.1440.831@0.23.1440.831" timestamp="1586447803960" />
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1586447822915">
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1586448028935">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1586447822915" />
-    <state x="378" y="195" width="683" height="486" key="find.popup" timestamp="1586447921313">
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1586448028935" />
+    <state x="378" y="195" width="683" height="486" key="find.popup" timestamp="1586493751798">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state x="378" y="195" width="683" height="486" key="find.popup/0.23.1440.831@0.23.1440.831" timestamp="1586447921313" />
+    <state x="378" y="195" width="683" height="486" key="find.popup/0.23.1440.831@0.23.1440.831" timestamp="1586493751798" />
     <state x="385" y="178" width="670" height="676" key="search.everywhere.popup" timestamp="1586447276095">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
