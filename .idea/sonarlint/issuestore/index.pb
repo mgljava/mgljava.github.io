@@ -62,3 +62,5 @@ M
 _posts/2020-04-10-JVM-Args.md,1/e/1ee0f4cac2d3e2f0938d1a8a1eb49508b46e066b
 T
 $_posts/2020-04-10-Grafana-Monitor.md,b/7/b7d4d7f2a182464383a27e422cbc589a558eb0aa
+T
+$_posts/2020-04-13-JVM-Memory_Area.md,0/9/09a72673cdfa1e4f7ee95686af08b9cb72e4a104

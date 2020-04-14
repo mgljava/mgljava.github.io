@@ -48,7 +48,8 @@ new关键字创建对象的3个步骤
 6. jstack
 
 ### jstat:用于统计内存分配速率、GC 次数，GC 耗时
-jstat -gc <pid> <统计间隔时间>  <统计次数>
+jstat -gc <pid> <统计间隔时间>  <统计次数>  
+
 ![image](https://raw.githubusercontent.com/mgljava/mgljava.github.io/master/img/jstat命令执行结果.png)
 
 ### jmap命令

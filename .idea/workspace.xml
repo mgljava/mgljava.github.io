@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41fde0c5-0e72-45a1-8c00-7c1467d9d7cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-04-13-JVM-Memory_Area.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Java虚拟机主要构成.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/jstat命令执行结果.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +128,7 @@
       <workItem from="1586500294138" duration="580000" />
       <workItem from="1586605784690" duration="47000" />
       <workItem from="1586605837283" duration="27000" />
-      <workItem from="1586786581379" duration="978000" />
+      <workItem from="1586786581379" duration="1287000" />
     </task>
     <task id="LOCAL-00001" summary="[TECH][glming] add java8 hashmap">
       <created>1557301087547</created>
@@ -364,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586500534295</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="[TECH][glming] JVM内存划分">
+      <created>1586788921735</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1586788921735</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -415,18 +419,19 @@
     <MESSAGE value="[TECH][glming] 更新代码" />
     <MESSAGE value="[TECH][glming] 格式化" />
     <MESSAGE value="[TECH][glming] 监控JVM进程" />
-    <option name="LAST_COMMIT_MESSAGE" value="[TECH][glming] 监控JVM进程" />
+    <MESSAGE value="[TECH][glming] JVM内存划分" />
+    <option name="LAST_COMMIT_MESSAGE" value="[TECH][glming] JVM内存划分" />
   </component>
   <component name="WindowStateProjectService">
     <state x="403" y="248" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586446204834">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="403" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.831@0.23.1440.831" timestamp="1586446204834" />
-    <state x="271" y="39" key="CommitChangelistDialog2" timestamp="1586500534123">
+    <state x="271" y="23" key="CommitChangelistDialog2" timestamp="1586788921629">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="361" y="20" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586495630627" />
-    <state x="271" y="39" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586500534123" />
+    <state x="271" y="23" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586788921629" />
     <state x="100" y="123" width="1240" height="631" key="DiffContextDialog" timestamp="1586447808951">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
@@ -452,11 +457,11 @@
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="449" y="150" key="VCS.ChangeListViewerDialog/0.23.1440.831@0.23.1440.831" timestamp="1586447803960" />
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1586500536316">
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1586788923657">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="427" y="194" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586495633995" />
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1586500536316" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1586788923657" />
     <state x="378" y="195" width="683" height="486" key="find.popup" timestamp="1586493751798">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
