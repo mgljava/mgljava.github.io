@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41fde0c5-0e72-45a1-8c00-7c1467d9d7cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-04-26-JVM-G1-tech.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jvm/g1_region1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jvm/g1_region2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jvm/g1_rset1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,12 +26,6 @@
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="456" />
-    <option name="y" value="300" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
   </component>
   <component name="ProjectId" id="1Y3qQtftWLYraBTk0TFWc3aspZZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -52,18 +50,19 @@
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\mcd0048\IdeaProjects\github\mgljava.github.io\img" />
-      <recent name="$PROJECT_DIR$/_posts" />
-      <recent name="D:\project\github\mgljava.github.io\_posts" />
-      <recent name="D:\project\github\mgljava.github.io\bak_img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mcd0048\IdeaProjects\github\mgljava.github.io\_posts" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="D:\project\github\mgljava.github.io\_posts" />
       <recent name="D:\project\github\mgljava.github.io" />
       <recent name="D:\project\github\mgljava.github.io\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/jvm" />
+      <recent name="C:\Users\mcd0048\IdeaProjects\github\mgljava.github.io\img" />
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="D:\project\github\mgljava.github.io\_posts" />
+      <recent name="D:\project\github\mgljava.github.io\bak_img" />
     </key>
   </component>
   <component name="RunManager">
@@ -129,6 +128,9 @@
       <workItem from="1586605784690" duration="47000" />
       <workItem from="1586605837283" duration="27000" />
       <workItem from="1586786581379" duration="1287000" />
+      <workItem from="1586826603938" duration="440000" />
+      <workItem from="1587101184624" duration="604000" />
+      <workItem from="1587881363574" duration="1535000" />
     </task>
     <task id="LOCAL-00001" summary="[TECH][glming] add java8 hashmap">
       <created>1557301087547</created>
@@ -368,7 +370,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586788921735</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="[TECH][glming] JVM内存划分">
+      <created>1586826707663</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1586826707663</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -423,23 +432,23 @@
     <option name="LAST_COMMIT_MESSAGE" value="[TECH][glming] JVM内存划分" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="403" y="248" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586446204834">
+    <state x="403" y="248" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587881391410">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state x="403" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.831@0.23.1440.831" timestamp="1586446204834" />
-    <state x="271" y="23" key="CommitChangelistDialog2" timestamp="1586788921629">
+    <state x="403" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.831@0.23.1440.831" timestamp="1587881391410" />
+    <state x="271" y="23" key="CommitChangelistDialog2" timestamp="1586826707542">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="361" y="20" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586495630627" />
-    <state x="271" y="23" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586788921629" />
+    <state x="271" y="23" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1586826707542" />
     <state x="100" y="123" width="1240" height="631" key="DiffContextDialog" timestamp="1586447808951">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="100" y="123" width="1240" height="631" key="DiffContextDialog/0.23.1440.831@0.23.1440.831" timestamp="1586447808951" />
-    <state x="308" y="180" key="IDE.errors.dialog" timestamp="1586605841501">
+    <state x="308" y="180" key="IDE.errors.dialog" timestamp="1587114009975">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
-    <state x="308" y="180" key="IDE.errors.dialog/0.23.1440.831@0.23.1440.831" timestamp="1586605841501" />
+    <state x="308" y="180" key="IDE.errors.dialog/0.23.1440.831@0.23.1440.831" timestamp="1587114009975" />
     <state x="442" y="156" key="RollbackChangesDialog" timestamp="1586496940105">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
@@ -457,11 +466,11 @@
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="449" y="150" key="VCS.ChangeListViewerDialog/0.23.1440.831@0.23.1440.831" timestamp="1586447803960" />
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1586788923657">
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1586826709349">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="427" y="194" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586495633995" />
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1586788923657" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1586826709349" />
     <state x="378" y="195" width="683" height="486" key="find.popup" timestamp="1586493751798">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
