@@ -68,3 +68,5 @@ W
 '_posts/2020-04-17-JVM-Metaspace-Perm.md,d/0/d0bc049df9a279b874ce9ad8daf912bb8d88a681
 P
  _posts/2020-04-26-JVM-G1-tech.md,2/f/2fc5eb8eb0f9ae1e63668332908c46d0b2f8ea34
+[
++_posts/2020-04-29-Hadoop-Cluster-Install.md,f/f/ff8a6e1d9deeaad29c7d80f776118d2847b5ea4f
