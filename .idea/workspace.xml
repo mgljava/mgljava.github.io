@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41fde0c5-0e72-45a1-8c00-7c1467d9d7cb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-04-29-Hadoop-Cluster-Install.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-04-29-Hadoop-Cluster-Install.md" afterDir="false" />
-    </list>
+    <list default="true" id="41fde0c5-0e72-45a1-8c00-7c1467d9d7cb" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,6 +127,7 @@
       <workItem from="1587881363574" duration="1535000" />
       <workItem from="1587883039190" duration="1382000" />
       <workItem from="1588133325954" duration="2585000" />
+      <workItem from="1588759988581" duration="743000" />
     </task>
     <task id="LOCAL-00001" summary="[TECH][glming] add java8 hashmap">
       <created>1557301087547</created>
@@ -390,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588133532837</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="[TECH][glming] Hadoop 集群搭建">
+      <created>1588760015249</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1588760015249</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -450,11 +455,11 @@
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="403" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.831@0.23.1440.831" timestamp="1587881391410" />
-    <state x="271" y="23" key="CommitChangelistDialog2" timestamp="1588133532705">
+    <state x="271" y="23" key="CommitChangelistDialog2" timestamp="1588760015133">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="361" y="20" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586495630627" />
-    <state x="271" y="23" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1588133532705" />
+    <state x="271" y="23" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1588760015133" />
     <state x="100" y="123" width="1240" height="631" key="DiffContextDialog" timestamp="1586447808951">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
@@ -480,11 +485,11 @@
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="449" y="150" key="VCS.ChangeListViewerDialog/0.23.1440.831@0.23.1440.831" timestamp="1586447803960" />
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1588133535035">
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1588760017089">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="427" y="194" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586495633995" />
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1588133535035" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1588760017089" />
     <state x="378" y="195" width="683" height="486" key="find.popup" timestamp="1586493751798">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
