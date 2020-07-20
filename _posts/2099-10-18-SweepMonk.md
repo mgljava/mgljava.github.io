@@ -93,13 +93,13 @@ tags:
   
 #### 大数据
 ##### Hive
-1. Hive编程指南 ![读书笔记](https://github.com/mgljava/bigData-study/blob/master/doc/hive/Hive%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.md)
+1. Hive编程指南 [读书笔记](https://github.com/mgljava/bigData-study/blob/master/doc/hive/Hive%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.md)
 
 ##### Spark
-1. Spark快速大数据分析 ![读书笔记](https://github.com/mgljava/bigData-study/blob/master/doc/spark/Spark%E5%BF%AB%E9%80%9F%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.md)
+1. Spark快速大数据分析 [读书笔记](https://github.com/mgljava/bigData-study/blob/master/doc/spark/Spark%E5%BF%AB%E9%80%9F%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.md)
 
 ##### scala
-1. 快学scala ![Scala-Study](https://github.com/mgljava/scala-study) 
+1. 快学scala [Scala-Study](https://github.com/mgljava/scala-study) 
 
 #### 数据结构和算法
   
