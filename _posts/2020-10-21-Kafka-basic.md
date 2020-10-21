@@ -48,6 +48,7 @@ tags:
 10. 控制器(controller): 集群中选取一个broker担任controller
 11. 通过配置来设置消息的保留时间，默认是7天。Kafka性能和数据量大小无关
 ![image](https://raw.githubusercontent.com/mgljava/mgljava.github.io/master/img/kafka_partitions.png)
+![image](https://raw.githubusercontent.com/mgljava/mgljava.github.io/master/img/kafka_log_consumer.png)
 ##### Kafka Api
 
 1. Producer API (publish message)
