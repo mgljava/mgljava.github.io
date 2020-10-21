@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="41fde0c5-0e72-45a1-8c00-7c1467d9d7cb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-10-21-Kafka-basic.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-21-Kafka-basic.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,26 +40,26 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\mcd0048\IdeaProjects\github\mgljava.github.io\_posts" />
-      <recent name="$PROJECT_DIR$/_posts" />
-      <recent name="D:\project\github\mgljava.github.io\_posts" />
-      <recent name="D:\project\github\mgljava.github.io" />
-      <recent name="D:\project\github\mgljava.github.io\img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img/jvm" />
       <recent name="C:\Users\mcd0048\IdeaProjects\github\mgljava.github.io\img" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="D:\project\github\mgljava.github.io\_posts" />
       <recent name="D:\project\github\mgljava.github.io\bak_img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="C:\Users\mcd0048\IdeaProjects\github\mgljava.github.io\_posts" />
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="D:\project\github\mgljava.github.io\_posts" />
+      <recent name="D:\project\github\mgljava.github.io" />
     </key>
   </component>
   <component name="RunManager">
@@ -96,6 +97,7 @@
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -144,6 +146,7 @@
       <workItem from="1595234929369" duration="325000" />
       <workItem from="1595235630882" duration="47000" />
       <workItem from="1596533563959" duration="89000" />
+      <workItem from="1603283880135" duration="878000" />
     </task>
     <task id="LOCAL-00001" summary="[TECH][glming] add java8 hashmap">
       <created>1557301087547</created>
@@ -425,11 +428,18 @@
       <option name="project" value="LOCAL" />
       <updated>1595235661337</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="[TECH][glming] update">
+      <created>1603284092494</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1603284092494</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -481,31 +491,15 @@
     <option name="LAST_COMMIT_MESSAGE" value="[TECH][glming] update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="403" y="248" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587881391410">
-      <screen x="0" y="23" width="1440" height="831" />
+    <state x="271" y="23" key="CommitChangelistDialog2" timestamp="1603284092355">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state x="403" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.831@0.23.1440.831" timestamp="1587881391410" />
-    <state x="271" y="23" key="CommitChangelistDialog2" timestamp="1595235661254">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="271" y="23" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1588760015133" />
+    <state x="271" y="23" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1603284092355" />
     <state x="271" y="23" key="CommitChangelistDialog2/0.23.1440.877/1440.-258.1920.1008@0.23.1440.877" timestamp="1595235661254" />
-    <state x="308" y="180" key="IDE.errors.dialog" timestamp="1587114009975">
-      <screen x="0" y="23" width="1440" height="831" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1603284094387">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state x="308" y="180" key="IDE.errors.dialog/0.23.1440.831@0.23.1440.831" timestamp="1587114009975" />
-    <state x="221" y="77" key="SettingsEditor" timestamp="1588221385687">
-      <screen x="0" y="23" width="1440" height="831" />
-    </state>
-    <state x="221" y="77" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1588221385687" />
-    <state width="538" height="445" key="SwitcherDM" timestamp="1586788893062">
-      <screen x="0" y="23" width="1440" height="831" />
-    </state>
-    <state width="538" height="445" key="SwitcherDM/0.23.1440.831@0.23.1440.831" timestamp="1586788893062" />
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1595235663120">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1588760017089" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1603284094387" />
     <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-258.1920.1008@0.23.1440.877" timestamp="1595235663120" />
   </component>
   <component name="masterDetails">
