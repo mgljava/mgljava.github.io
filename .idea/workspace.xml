@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41fde0c5-0e72-45a1-8c00-7c1467d9d7cb" name="Default Changelist" comment="" />
+    <list default="true" id="41fde0c5-0e72-45a1-8c00-7c1467d9d7cb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +64,17 @@
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -129,6 +142,8 @@
       <workItem from="1588133325954" duration="2585000" />
       <workItem from="1588759988581" duration="743000" />
       <workItem from="1595234929369" duration="325000" />
+      <workItem from="1595235630882" duration="47000" />
+      <workItem from="1596533563959" duration="89000" />
     </task>
     <task id="LOCAL-00001" summary="[TECH][glming] add java8 hashmap">
       <created>1557301087547</created>
@@ -403,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595235232856</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="[TECH][glming] update">
+      <created>1595235661337</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1595235661337</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -463,11 +485,11 @@
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="403" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.831@0.23.1440.831" timestamp="1587881391410" />
-    <state x="271" y="23" key="CommitChangelistDialog2" timestamp="1595235232672">
+    <state x="271" y="23" key="CommitChangelistDialog2" timestamp="1595235661254">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="271" y="23" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1588760015133" />
-    <state x="271" y="23" key="CommitChangelistDialog2/0.23.1440.877/1440.-258.1920.1008@0.23.1440.877" timestamp="1595235232672" />
+    <state x="271" y="23" key="CommitChangelistDialog2/0.23.1440.877/1440.-258.1920.1008@0.23.1440.877" timestamp="1595235661254" />
     <state x="308" y="180" key="IDE.errors.dialog" timestamp="1587114009975">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
@@ -480,11 +502,11 @@
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state width="538" height="445" key="SwitcherDM/0.23.1440.831@0.23.1440.831" timestamp="1586788893062" />
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1595235234706">
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1595235663120">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1588760017089" />
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-258.1920.1008@0.23.1440.877" timestamp="1595235234706" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-258.1920.1008@0.23.1440.877" timestamp="1595235663120" />
   </component>
   <component name="masterDetails">
     <states>
