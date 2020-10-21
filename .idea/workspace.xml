@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41fde0c5-0e72-45a1-8c00-7c1467d9d7cb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kafka_partitions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/log_consumer.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-10-21-Kafka-basic.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-21-Kafka-basic.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -146,7 +147,7 @@
       <workItem from="1595234929369" duration="325000" />
       <workItem from="1595235630882" duration="47000" />
       <workItem from="1596533563959" duration="89000" />
-      <workItem from="1603283880135" duration="878000" />
+      <workItem from="1603283880135" duration="1223000" />
     </task>
     <task id="LOCAL-00001" summary="[TECH][glming] add java8 hashmap">
       <created>1557301087547</created>
@@ -435,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603284092494</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="[TECH][glming] update">
+      <created>1603285005505</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1603285005505</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -491,15 +499,19 @@
     <option name="LAST_COMMIT_MESSAGE" value="[TECH][glming] update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="271" y="23" key="CommitChangelistDialog2" timestamp="1603284092355">
+    <state x="271" y="23" key="CommitChangelistDialog2" timestamp="1603285005414">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state x="271" y="23" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1603284092355" />
+    <state x="271" y="23" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1603285005414" />
     <state x="271" y="23" key="CommitChangelistDialog2/0.23.1440.877/1440.-258.1920.1008@0.23.1440.877" timestamp="1595235661254" />
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1603284094387">
+    <state width="531" height="456" key="SwitcherDM" timestamp="1603285325701">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1603284094387" />
+    <state width="531" height="456" key="SwitcherDM/0.23.1440.829@0.23.1440.829" timestamp="1603285325701" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1603285006945">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1603285006945" />
     <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-258.1920.1008@0.23.1440.877" timestamp="1595235663120" />
   </component>
   <component name="masterDetails">

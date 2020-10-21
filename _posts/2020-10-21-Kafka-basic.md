@@ -3,7 +3,7 @@ layout:     post
 title:      Kafka基本概念
 date:       2020-10-21
 author:     Monk
-header-img: img/kafka_basic.png
+header-img: img/log_consumer.png
 catalog: true
 tags:
     - 大数据
@@ -13,13 +13,11 @@ tags:
 ## Kafka
 
 ##### Kafka基本概念
-
-概念：Kafka是一个分布式流处理平台
-特性：
-
-1. 可以让你发布和订阅流式的记录。这一方面与消息队列或者企业消息系统类似。
-2. 可以储存流式的记录，并且有较好的容错性。
-3. 可以在流式记录产生时就进行处理。
+1. 概念：Kafka是一个分布式流处理平台
+2. 特性：
+   1. 可以让你发布和订阅流式的记录。这一方面与消息队列或者企业消息系统类似。
+   2. 可以储存流式的记录，并且有较好的容错性。
+   3. 可以在流式记录产生时就进行处理。
 
 传统的系统交互：
 
@@ -49,7 +47,7 @@ tags:
 9. 集群：多个Broker组成的一个整体
 10. 控制器(controller): 集群中选取一个broker担任controller
 11. 通过配置来设置消息的保留时间，默认是7天。Kafka性能和数据量大小无关
-
+![image](https://raw.githubusercontent.com/mgljava/mgljava.github.io/master/img/kafka_partitions.png)
 ##### Kafka Api
 
 1. Producer API (publish message)
