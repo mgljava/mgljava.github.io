@@ -70,3 +70,7 @@ P
  _posts/2020-04-26-JVM-G1-tech.md,2/f/2fc5eb8eb0f9ae1e63668332908c46d0b2f8ea34
 [
 +_posts/2020-04-29-Hadoop-Cluster-Install.md,f/f/ff8a6e1d9deeaad29c7d80f776118d2847b5ea4f
+P
+ _posts/2020-10-21-Kafka-basic.md,1/5/15d6d02e6f71526b0c53dc9f3658196c37aa5aa0
+U
+%_posts/2020-10-21-SpringBoot-Kafka.md,b/0/b094664998a41a24e7faf213a161090ce6c35c54

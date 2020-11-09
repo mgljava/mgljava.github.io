@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41fde0c5-0e72-45a1-8c00-7c1467d9d7cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-10-21-SpringBoot-Kafka.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="41fde0c5-0e72-45a1-8c00-7c1467d9d7cb" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,13 +66,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -146,7 +145,7 @@
       <workItem from="1595234929369" duration="325000" />
       <workItem from="1595235630882" duration="47000" />
       <workItem from="1596533563959" duration="89000" />
-      <workItem from="1603283880135" duration="1852000" />
+      <workItem from="1603283880135" duration="2567000" />
     </task>
     <task id="LOCAL-00001" summary="[TECH][glming] add java8 hashmap">
       <created>1557301087547</created>
@@ -456,7 +455,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603285594585</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="[TECH][glming] SpringBoot 集成Kafka实现消息发送和消费">
+      <created>1603286140117</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1603286140117</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -509,22 +515,23 @@
     <MESSAGE value="[TECH][glming] JVM内存划分" />
     <MESSAGE value="[TECH][glming] Hadoop 集群搭建" />
     <MESSAGE value="[TECH][glming] update" />
-    <option name="LAST_COMMIT_MESSAGE" value="[TECH][glming] update" />
+    <MESSAGE value="[TECH][glming] SpringBoot 集成Kafka实现消息发送和消费" />
+    <option name="LAST_COMMIT_MESSAGE" value="[TECH][glming] SpringBoot 集成Kafka实现消息发送和消费" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="271" y="23" key="CommitChangelistDialog2" timestamp="1603285594492">
+    <state x="271" y="23" key="CommitChangelistDialog2" timestamp="1603286140038">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state x="271" y="23" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1603285594492" />
+    <state x="271" y="23" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1603286140038" />
     <state x="271" y="23" key="CommitChangelistDialog2/0.23.1440.877/1440.-258.1920.1008@0.23.1440.877" timestamp="1595235661254" />
     <state width="531" height="456" key="SwitcherDM" timestamp="1603285325701">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state width="531" height="456" key="SwitcherDM/0.23.1440.829@0.23.1440.829" timestamp="1603285325701" />
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1603285597706">
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1603286141529">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1603285597706" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1603286141529" />
     <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.-258.1920.1008@0.23.1440.877" timestamp="1595235663120" />
   </component>
   <component name="masterDetails">
